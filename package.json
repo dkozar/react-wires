@@ -1,0 +1,24 @@
+{
+  "name": "react-wires",
+  "version": "1.0.0",
+  "description": "Just some wires",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dkozar/react-wires.git"
+  },
+  "keywords": [
+    "React",
+    "ReactJS",
+    "wires"
+  ],
+  "author": "Danko Kozar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dkozar/react-wires/issues"
+  },
+  "homepage": "https://github.com/dkozar/react-wires#readme"
+}
